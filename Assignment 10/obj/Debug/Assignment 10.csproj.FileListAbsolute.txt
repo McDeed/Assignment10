@@ -1,0 +1,6 @@
+\\homer.uit.no\sro062\my documents\visual studio 2015\Projects\Assignment 10\Assignment 10\bin\Debug\Assignment 10.exe.config
+\\homer.uit.no\sro062\my documents\visual studio 2015\Projects\Assignment 10\Assignment 10\bin\Debug\Assignment 10.exe
+\\homer.uit.no\sro062\my documents\visual studio 2015\Projects\Assignment 10\Assignment 10\bin\Debug\Assignment 10.pdb
+\\homer.uit.no\sro062\my documents\visual studio 2015\Projects\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csprojResolveAssemblyReference.cache
+\\homer.uit.no\sro062\my documents\visual studio 2015\Projects\Assignment 10\Assignment 10\obj\Debug\Assignment 10.exe
+\\homer.uit.no\sro062\my documents\visual studio 2015\Projects\Assignment 10\Assignment 10\obj\Debug\Assignment 10.pdb
